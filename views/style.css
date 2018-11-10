@@ -1,0 +1,27 @@
+html{
+	box-sizing: border-box;
+}
+
+,:after, *:before{
+	box-sizing: inherit;
+}
+
+*{
+	
+	max-height: 10000000px;
+}
+a{
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #000;
+}
+body{
+	border: auto;
+	margin: 0px;
+	font: 16px/20px;
+	min-width:320px;
+	font-family:"sans-serif";
+	color: black;
+  background: #C1C8E4;
+  display: grid;
+}
